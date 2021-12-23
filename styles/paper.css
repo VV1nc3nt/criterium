@@ -238,6 +238,13 @@ body {
   padding-bottom: 75px;
 }
 
+
+
+.under_construction {
+  background-color: gray;
+  background-image: url('');
+}
+
 /* =========FRAME========= */
 
 .frame {
