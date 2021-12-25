@@ -245,6 +245,10 @@ body {
   background-image: url('');
 }
 
+.under_construction:hover {
+  outline: 3px solid #F4DB67;
+}
+
 /* =========FRAME========= */
 
 .frame {
